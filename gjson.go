@@ -14,8 +14,8 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/tidwall/match"
-	"github.com/tidwall/pretty"
+	"github.com/xphip-pack/match"
+	"github.com/xphip-pack/pretty"
 )
 
 // Type is Result type
